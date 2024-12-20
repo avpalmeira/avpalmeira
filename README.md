@@ -25,7 +25,7 @@ Small projects I did for clients, myself, or part of technical challenges I part
 Projects that include tools, scripts, and configurations I use daily or are part of my environment.
 
 - ⚙️ [dotfiles](https://github.com/avpalmeira/dotfiles): Set of configuration files, functions and scripts I use regularly.
-- 🎹 [karabiner complex modifications](https://github.com/avpalmeira/KE-complex_modifications): Karabiner-Elements complex_modifications rules.
+- 🎹 [karabiner complex modifications](https://github.com/avpalmeira/KE-complex_modifications): Complex modifications rules for Mac keyboard and mouse.
 - ⛓️ [bulk merger](https://github.com/avpalmeira/bulk-merger): Bulk merges Pull Requests - especially useful when dependabot creates many PRs simultaneously.
 - 📟 [oh my zsh](https://github.com/avpalmeira/ohmyzsh): A framework for managing my zsh configuration.
 
